@@ -45,7 +45,7 @@ Aplikasi ini membantu admin server & developer menemukan masalah konfigurasi mau
 
 1. **Clone repository**
    ```bash
-   git clone https://github.com/username/streamlit-xampp-log-analyzer.git
+   git clone https://github.com/miftakhurrokhmat/streamlit-xampp-log-analyzer.git
    cd streamlit-xampp-log-analyzer
    ```
 
